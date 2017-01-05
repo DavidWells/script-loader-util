@@ -1,0 +1,11 @@
+{
+  "name": "script-loader-util",
+  "version": "0.0.1",
+  "description": "script loader utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Wells",
+  "license": "MIT"
+}
